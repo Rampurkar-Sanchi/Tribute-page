@@ -1,0 +1,49 @@
+#main{
+    height:340vh;
+    background-color:lightseagreen;
+    border:20px solid black;
+    margin:  20%
+}
+.heading{
+    line-height: 0.6;
+}
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+#title{
+    margin-top: 7%;
+    margin-left: 15%;
+    font-size: 100px;
+    text-shadow: 5px 5px 10px black;
+    color:red;
+}
+#photo{
+    display: inline-block;
+    width: 50%;
+    margin-left: 27%;
+}
+#data{
+    text-align: center;
+    background-color:grey
+    box-shadow: 20px 20px 20px lightblue;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 18px;
+    margin-top: 50px;
+}
+.name{
+    text-decoration: underline;
+}
+.content{
+    text-align: left;
+    display: inline-block;
+  letter-spacing: 4%;
+  line height:1.8;
+}
+#tribute-link {
+    text-decoration: none;
+    color: black;
+
+}
